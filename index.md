@@ -10,6 +10,8 @@ Coding development ambitions and GitHub
 
 Reading interests
 
+During my first independent travels I picked up a habit of writing a travel blog to practice my writing. Blogs about my [first trip](https://filppumenoa.blogspot.com/) to the Philippines, Singapore and Malaysia and the [second trip](https://maailmankiertue2014.blogspot.com/) to Thailand, Cambodia, Lao and Vietnam express well my development as a writer and an observer. I regard these texts as products of the time and cannot fully stand behind them but feel the advantages in self-critique too strong to let them unnoticed. The [travel blog](https://wordpress.com/view/jaakkojasarvikuonot.wordpress.com) I feel best depicts my skills and wits is the one I wrote during my trip to Benin and Togo in West-Africa. Writing the texts was a peaceful process and I also possessed some more understanding of the world around me. This is the one I've also gotten most feedback and have been able to turn it into my advantage.
+
 ## Languages
 
 I like languages, always have. As everybody in Finland, I studied English and Swedish in school. I especially liked studying the grammar and deemed the etymology of words and phrases highly interesting. I have also regarded it important to develop a clear identity in both languages through a coherent accent and perfecting the pronunciation.
@@ -30,11 +32,11 @@ I like meeting new people and truly believe every conversation is a possibility 
 
 I've visited my relatives, living then in Argentina and Chile, and really felt connected with the local mentality there. In my opinion, the welcoming atmosphere that centers around the family is something Finnish people could learn from. Despite the political and economic tensions, most people seem to lead a happy and stable life and can value the free time as it should be valued. This is, of course, just my personal opinion concerning only the things I've seen. 
 
-I've been lucky to have been able to visit Caribbean through a friend of mine who was studying in Cuba. During the trip, we stayed at a volunteer work center and took part in some of the activities also. This took place in the mountainous region of Dominican republic and taught me to better understand people living in rural areas without the amenities we take for granted. During the trip I also traveled to the Haitian side of the border and experienced things I will not easily forget. This was just five years after the massive Haitian earthquake and I got to feel the local pulse on many issues. 
+I've been lucky to have been able to visit Caribbean through a friend of mine who was studying in Cuba. During the trip, we stayed at a volunteer work center and took part in some of the activities also. This took place in the mountainous region of Dominican republic and taught me to better understand people living in rural areas without the amenities we take for granted. During the trip I also traveled to the Haitian side of the border and experienced things I will not easily forget. This was just five years after the massive Haitian earthquake and I got to feel the local pulse on many issues. We naturally also visited cuba, an experience that was particularly valuable to me as an Economics student. 
 
+Some of the other experiences I've had was a spontaneous trip to Svalbard, a secluded group of islands belonging to Norway. As the region is located roughly halfway between the northernmost point in Scandinavia and the North pole, I got exposed to the vastness of untamed nature and harsh nature by e.g. crawling in a cave under the glacier. 
 
-
-My first 
+I've also witnessed the endangered silverback mountain gorillas by standing one meter apart in the jungle of Uganda and visited Rwanda and Kenya to see the true state of African prosperity. As mentioned in the [Reading & Writing](https://jarvijaakko.github.io/#reading--writing) section, some other trips I've made have been set in South-East Asia and West-Africa.
 
 ## Public Speaking
 
