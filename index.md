@@ -26,7 +26,15 @@ I have also taken classes in Chinese and continuing the studies is something I h
 
 ## Travel
 
-Travel
+I like meeting new people and truly believe every conversation is a possibility to learn something valuable. Part of this is the neverending longing for new experiences in the form of traveling. The interest towards the vastness of different views of the world I picked from my social sciences background have drived me to some highly unusual destinations.
+
+I've visited my relatives, living then in Argentina and Chile, and really felt connected with the local mentality there. In my opinion, the welcoming atmosphere that centers around the family is something Finnish people could learn from. Despite the political and economic tensions, most people seem to lead a happy and stable life and can value the free time as it should be valued. This is, of course, just my personal opinion concerning only the things I've seen. 
+
+I've been lucky to have been able to visit Caribbean through a friend of mine who was studying in Cuba. During the trip, we stayed at a volunteer work center and took part in some of the activities also. This took place in the mountainous region of Dominican republic and taught me to better understand people living in rural areas without the amenities we take for granted. During the trip I also traveled to the Haitian side of the border and experienced things I will not easily forget. This was just five years after the massive Haitian earthquake and I got to feel the local pulse on many issues. 
+
+
+
+My first 
 
 ## Public Speaking
 
