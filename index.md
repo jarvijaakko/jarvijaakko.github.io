@@ -6,11 +6,6 @@ This homepage is a diary-like collection of random stuff about my endeavours wit
 
 Coding development ambitions and GitHub
 
-## Reading & Writing
-
-Reading interests
-
-During my first independent travels I picked up a habit of writing a travel blog to practice my writing. Blogs about my [first trip](https://filppumenoa.blogspot.com/) to the Philippines, Singapore and Malaysia and the [second trip](https://maailmankiertue2014.blogspot.com/) to Thailand, Cambodia, Lao and Vietnam express well my development as a writer and an observer. I regard these texts as products of the time and cannot fully stand behind them but feel the advantages in self-critique too strong to let them unnoticed. The [travel blog](https://wordpress.com/view/jaakkojasarvikuonot.wordpress.com) I feel best depicts my skills and wits is the one I wrote during my trip to Benin and Togo in West-Africa. Writing the texts was a peaceful process and I also possessed some more understanding of the world around me. This is the one I've also gotten most feedback and have been able to turn it into my advantage.
 
 ## Languages
 
@@ -36,7 +31,15 @@ I've been lucky to have been able to visit Caribbean through a friend of mine wh
 
 Some of the other experiences I've had was a spontaneous trip to Svalbard, a secluded group of islands belonging to Norway. As the region is located roughly halfway between the northernmost point in Scandinavia and the North pole, I got exposed to the vastness of untamed nature and harsh nature by e.g. crawling in a cave under the glacier. 
 
-I've also witnessed the endangered silverback mountain gorillas by standing one meter apart in the jungle of Uganda and visited Rwanda and Kenya to see the true state of African prosperity. As mentioned in the [Reading & Writing](https://jarvijaakko.github.io/#reading--writing) section, some other trips I've made have been set in South-East Asia and West-Africa.
+I've also witnessed the endangered silverback mountain gorillas by standing one meter apart in the jungle of Uganda and visited Rwanda and Kenya to see the true state of African prosperity. Some other trips I've made have been set in South-East Asia and West-Africa, more on them in the [Reading & Writing](https://jarvijaakko.github.io/#reading--writing) section.
+
+## Reading & Writing
+
+Reading interests
+
+Published (links) and nonpublished (link to LinkedIn) writing.
+
+During my first independent travels I picked up a habit of writing a travel blog to practice my writing. Blogs about my [first trip](https://filppumenoa.blogspot.com/) to the Philippines, Singapore and Malaysia and the [second trip](https://maailmankiertue2014.blogspot.com/) to Thailand, Cambodia, Lao and Vietnam express well my development as a writer and an observer. I regard these texts as products of the time and cannot fully stand behind them but feel the advantages in self-critique too strong to let them unnoticed. The [travel blog](https://wordpress.com/view/jaakkojasarvikuonot.wordpress.com) I feel best depicts my skills and wits is the one I wrote during my trip to Benin and Togo in West-Africa. Writing the texts was a peaceful process and I also possessed some more understanding of the world around me. This is the one I've also gotten most feedback and have been able to turn it into my advantage.
 
 ## Public Speaking
 
