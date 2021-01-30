@@ -1,0 +1,3 @@
+My newest old love is Python. I've been using Python throughout my studies for the basic data analysis and visualization tasks as it enjoys a solid appreciation among the data science community. 
+
+Lately, I've picked it up again to truly get a grasp of the versatility of its modern libraries.

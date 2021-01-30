@@ -1,0 +1,3 @@
+When I changed my major to Economics, I quickly realized R is the go-to tool in statistical and economic data analysis. I have been using R daily for around five years now including writing almost all of my client project deliverables in it. 
+
+I have seen the effect of this by slowly transferring from questions like "How can I write this in R" to "How can I write this in an clean and understandable manner in R".

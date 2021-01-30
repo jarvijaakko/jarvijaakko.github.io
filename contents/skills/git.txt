@@ -1,0 +1,3 @@
+I've just recently found out about the awesomeness of Git. Many times I've said to myself "There has to be a better way" when reviewing the colorful practices for version control of different companies. 
+
+Until now, I've used Git only for my personal projects, not in a professional setting, hence the low commit frequency. The more I am getting familiar with Git, the more I long to use it in my work also.
