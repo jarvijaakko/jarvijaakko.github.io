@@ -1,0 +1,3 @@
+This website is a good example of my HTML and CSS competences. I wanted to make it exactly like I imagined and not just settle for some pre-made template available on the web. 
+
+Next, I try to continue adding functionalities and content here as a part of the routine of updating my GitHub.

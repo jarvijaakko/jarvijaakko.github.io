@@ -1,0 +1,3 @@
+Latex is one of my older loved-ones. I was mezmerized by its simplicity and customizability while studying Physics back in the day. Afted adopting the syntax, I've used it in writing my CV, Master's thesis and a number of other research reports. 
+
+Markdown is a newer acquaintance that I learned while writing code-heavy problem set solutions in Econometrics. After that, I've written most of the client projects' model documentation using Markdown.
