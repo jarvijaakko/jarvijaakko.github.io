@@ -3,14 +3,59 @@
 <head>
 	<title>Jaakko's Homepage</title>
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<!--  	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baD1411NQApFmC26EwAOH8WgZ15MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+ -->	
+ 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<script src="https://kit.fontawesome.com/e2deccec7d.js" crossorigin="anonymous"></script>
-	<link rel="stylesheet" type="text/css"
-    href="https://cdn.rawgit.com/dreampulse/computer-modern-web-font/master/fonts.css">
 	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<script type="text/javascript" src="js/javascript.js"></script>
 </head>
 <body>
-<section class="banner cover-bg">
+
+<!-- <nav class="navbar navbar-expand-lg navbar-dark fixed-top">
+  	<a class="custom_logo" href="#"><span>JAAKKO JÄRVINEN</span></a>
+  	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  	</button>
+  	<div class="collapse navbar-collapse" id="navbarNav">
+    	<ul class="navbar-nav">
+      		<li class="nav-item">
+        		<a class="nav-link" href="#">Features</a>
+      		</li>
+      		<li class="nav-item">
+        		<a class="nav-link" href="#">Pricing</a>
+      		</li>
+    	</ul>
+  	</div>
+</nav>
+ -->
+
+<nav class="navbar navbar-expand-lg navbar-dark fixed-top">
+  	<div class="container">
+ 		<a class="navbar-brand custom_logo" href="#home">Jaakko Järvinen</a>
+  		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    		<span class="navbar-toggler-icon"></span>
+  		</button>
+  	<div class="collapse navbar-collapse" id="navbarNav">
+    	<ul class="navbar-nav ml-auto">
+      		<li class="nav-item ml-2">
+        		<a class="nav-link" href="#about">About</a>
+      		</li>
+	      	<li class="nav-item ml-2">
+	        	<a class="nav-link" href="#skills">Skills</a>
+	      	</li>
+      		<li class="nav-item ml-2">
+        		<a class="nav-link" href="#projects">Projects</a>
+      		</li>
+			<li class="nav-item ml-2">
+        		<a class="nav-link" href="#contact_form">Contact</a>
+  			</li>
+    	</ul>
+  	</div>
+  	</div>
+</nav>
+
+<section id="home" class="banner cover-bg">
 	<div class="container h-100">
 		<div class="row align-items-center h-100">
 			<div class="col-12 caption text-center">
@@ -53,7 +98,7 @@
 	</header>	
  -->
 
-<section class="about section_padding pb-0">
+<section id="about" class="about section_padding pb-0">
 	<div class="container">
 		<div class="row align-items-center">
 			<div class="col-lg-12 section_title text-center">
@@ -104,7 +149,7 @@
 </section>
 
 <section>
-	<div class="skills section_padding cover-bg">
+	<div id="skills" class="skills section_padding cover-bg">
 		<div class="container">
 			<div class="row">
 				<div class="section_title text-center">
@@ -297,7 +342,7 @@
 
 </section>
 
-<section id = "projects_id" class = "projects section_padding cover-bg">
+<section id = "projects" class = "projects section_padding cover-bg">
 	<div class="container">
 		<div class="row">
 			<div class="section_title text-center">
@@ -308,24 +353,28 @@
 			<div class="col-lg-4 col-md-4 col-sm-12">
 				<div class="projects-item">
 					<div class="part-img">
-						<img class="img-fluid" src="https://via.placeholder.com/150">
+						<img class="img-fluid" src="images/karttaplot_transp.png">
 						<div class="post-info-category">
-							<a href="#">Creative</a>
+							<a href="#">R</a>
 						</div>	
 					</div>
 
 					<div class="content">
 						<div class="title">
-							<h4><a href="#"> Jeejee</a></h4>
+							<h4><a href="#">Chroropleth map plotting script</a></h4>
 							<div class="meta">
-								<span>19 January 2020</span>
+								<span>2 January 2020</span><br>
+								<a href="https://github.com/jarvijaakko/Karttaplotit">Github link</a>
 							</div>
 						</div>
 
-						<p>Lorem ipsum jee jee</p>
+						<p>A serious of scripts in R that take coordinates in geojson data format as input and plot corresponding maps.<!--  There are four scripts in total that allow to plot geospatial data flexibly according to the granularity needed. <br><br>
+						The four levels of granularity are: Countries of the world, the NUTS 3 regions (counties) of Europe, the municipalities of Finland and the zip code areas of Finland.<br><br>
+						The subsetting of the regions is also possible just by naming the region of interest e.g. plot only the zip codes of the Uusimaa region of Finland. -->
+						</p>
 						<div class="author">
 							<div class="author-img">
-								<img class="img-fluid" src="https://via.placeholder.com/100">
+								<img class="img-fluid" src="images/Jaakko_final.png">
 							</div>
 							<div class="text">
 								<h5><a href="#">By Jaakko Järvinen</a></h5>
@@ -338,24 +387,25 @@
 			<div class="col-lg-4 col-md-4 col-sm-12">
 				<div class="projects-item">
 					<div class="part-img">
-						<img class="img-fluid" src="https://via.placeholder.com/150">
+						<img class="img-fluid" src="images/inprog.png">
 						<div class="post-info-category">
-							<a href="#">Creative</a>
+							<a href="#">Python</a>
 						</div>	
 					</div>
 
 					<div class="content">
 						<div class="title">
-							<h4><a href="#"> Jeejee</a></h4>
+							<h4><a href="#">Investment portfolio analysis dashboard</a></h4>
 							<div class="meta">
-								<span>19 January 2020</span>
+								<span>8 December 2020</span><br>
+								<a href="https://github.com/jarvijaakko/Portfolio_analysis_dashboard">Github link</a>
 							</div>
 						</div>
 
-						<p>Lorem ipsum jee jee</p>
+						<p>A dashboard tool that allows the user to analyze and track the progress of an investment portfolio.</p>
 						<div class="author">
 							<div class="author-img">
-								<img class="img-fluid" src="https://via.placeholder.com/100">
+								<img class="img-fluid" src="images/Jaakko_final.png">
 							</div>
 							<div class="text">
 								<h5><a href="#">By Jaakko Järvinen</a></h5>
@@ -365,27 +415,28 @@
 				</div>
 			</div>
 
-			<div class="col-lg-4 col-md-4 col-sm-12">
+						<div class="col-lg-4 col-md-4 col-sm-12">
 				<div class="projects-item">
 					<div class="part-img">
-						<img class="img-fluid" src="https://via.placeholder.com/150">
+						<img class="img-fluid" src="images/inprog.png">
 						<div class="post-info-category">
-							<a href="#">Creative</a>
+							<a href="#">Python</a>
 						</div>	
 					</div>
 
 					<div class="content">
 						<div class="title">
-							<h4><a href="#"> Jeejee</a></h4>
+							<h4><a href="#">Stock picking dashboard</a></h4>
 							<div class="meta">
-								<span>19 January 2020</span>
+								<span>16 January 2021</span><br>
+								<a href="https://github.com/jarvijaakko/Stock_picking_dashboard">Github link</a>
 							</div>
 						</div>
 
-						<p>Lorem ipsum jee jee</p>
+						<p>A dashboard tool that helps in analyzing potential stocks to buy by fetching stock data according to user-inputted criteria.</p>
 						<div class="author">
 							<div class="author-img">
-								<img class="img-fluid" src="https://via.placeholder.com/100">
+								<img class="img-fluid" src="images/Jaakko_final.png">
 							</div>
 							<div class="text">
 								<h5><a href="#">By Jaakko Järvinen</a></h5>
@@ -427,7 +478,7 @@
 								</div>
 
 								<h5>Phone number: </h5>
-								<p>Jee jee</p>
+								<p>Upon request</p>
 							</div>
 						</div>
 
