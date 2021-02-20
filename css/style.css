@@ -207,8 +207,11 @@ body {
 }
 
 .btn:hover{
-	box-shadow: inset 12em 0 0 0 #fff;
+	background-color: #fff;
 	color: #f15627;
+	border: 2px solid #fff;
+	transform: scale(1.1);
+	transition: 0.3s;
 }
 
 /*navbar css*/
@@ -320,7 +323,7 @@ html{
 }
 
 .about .part_text p{
-	border-bottom: 1px solid #f1f1f1;
+	border-bottom: 1px solid #000000;
 }
 
 .about .part_photo img{
@@ -331,7 +334,8 @@ html{
 .about .part_text .info li{
 	width: 48%;
 	display: inline-block;
-	margin-bottom: 15px;	
+	margin-bottom: 15px;
+	color: #000000	
 }
 
 /*skills section css*/
