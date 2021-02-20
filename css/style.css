@@ -1,12 +1,6 @@
 *{
 	margin: 0;
 	padding: 0;
-<<<<<<< HEAD
-	font-family: Helvetica;
-}
-
-header{
-=======
 	box-sizing: border-box;
 }
 
@@ -684,7 +678,6 @@ html{
 
 
 /*header{
->>>>>>> Development
 	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5),rgba(0,0,0,0.5)) , url(../background.jpg);
 	height: 100vh;
 	background-size: cover;
