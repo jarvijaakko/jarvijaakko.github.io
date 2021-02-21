@@ -500,29 +500,23 @@
 
 			<div class="col-md-12">
 				<div class="contact-form">
-					<form>
+					<form method="post", action="contact-form-process.php">
 						<div class="row">
 							<div class="col-md-6">
 								<div class="form-group">
-									<input type="text" name="name" placeholder="Name" required="required">
+									<input type="text" id="Name" name="Name" placeholder="Name" required="required">
 								</div>
 							</div>
 							<div class="col-md-6">
 								<div class="form-group">
-									<input type="email" name="email" placeholder="Email" required="required">
+									<input type="email" id="Email" name="Email" placeholder="Email" required="required">
 								</div>
 							</div>
 							<div class="col-md-12">
-								<div class="form-group">
-									<input type="text" name="subject" placeholder="Subject" required="required">
-								</div>
-							</div>
-
-							<div class="col-md-12">
-								<textarea placeholder="Type your message" required="required"></textarea>
+								<textarea id="Message" name="Message" placeholder="Type your message" required="required"></textarea>
 							</div>
 							<div class="col-md-12">
-								<button type="subject" class="btn">Send your message</button>
+								<button type="submit" id="fcf-button" class="btn">Send your message</button>
 							</div>
 						</div>
 					</form>
