@@ -338,6 +338,80 @@ html{
 	color: #000000	
 }
 
+/*New skills section with cards*/
+
+.middle{
+	position: relative;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+/*	background-image: transparent; 
+*/}
+
+.card{
+	width: 340px;
+	height: 340px;
+	cursor: pointer;
+	background-color: rgba(245, 245, 245, 0)
+/*	background-image: transparent;
+*/}
+
+.front, .back{
+	width: 100%;
+	height: 100%;
+	overflow: auto;
+	hyphens: auto;
+	backface-visibility: hidden;
+	position: absolute;
+	transition: 0.6s linear;
+/*	background-image: transparent;
+*/}
+
+.front img{
+	height: 100%;
+/*	background-image: transparent;
+*/}
+
+.front{
+	transform: perspective(600px) rotateY(0deg);
+	background-image: transparent;
+/*	background-color: #f1f1f1;
+*/}
+
+.back{
+	background-color: #f1f1f1;
+	transform: perspective(600px) rotateY(180deg);
+/*	background-image: transparent;
+*/}
+
+.back_content{
+	color: #2c3e50;
+	text-align: center;
+	width: 200%;
+	font-size: 12px;
+/*	background-image: none;
+*/	word-wrap: normal;
+	display: block;
+	width: 320px;
+}
+
+/*.back_content .middle span{
+	overflow-wrap: initial;
+}
+*/
+
+.card:hover .front{
+	transform: perspective(600px) rotateY(-180deg);
+/*	background-image: transparent;
+*/}
+
+.card:hover .back{
+	transform: perspective(600px) rotateY(0deg);
+/*	background-image: transparent;
+*/}
+
+
+
 /*skills section css*/
 /*modify background*/
 .skills{
@@ -349,7 +423,7 @@ html{
 .skills .section_title h3{
 	color: #fff;
 }
-
+/*
 .skills .skills_box{
 	border: 1px solid #fafafa;
 	transition: all 0.5s;
@@ -413,8 +487,8 @@ html{
 	right: 4px;
 }
 
-/*Latex typeset icon*/
-.latex sub, .latex sup {
+/*Latex typeset icon
+/*.latex sub, .latex sup {
   text-transform: uppercase;
 }
 
