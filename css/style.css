@@ -972,7 +972,7 @@ html{
 
 /*Contact section css*/
 .contact{
-	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../images/background.jpg);
+	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../images/background_mobile.jpg);
 	background-attachment: fixed; 
 	height: 100%;
 /*	width: 100%;
@@ -1040,7 +1040,7 @@ html{
 	margin-right: 10px;
 	background: #252525;
 	transition: 0.5s all;
-}
+-}
 
 .footer .social_icon a i{
 	color: #fff;
