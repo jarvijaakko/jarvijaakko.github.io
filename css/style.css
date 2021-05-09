@@ -1,4 +1,12 @@
+/*CSS form for devices with resolution over 769px*/
 @media only screen and (min-width: 769px) {
+/*.deskContent{
+	display: block;
+}
+.phoneContent{
+	display: none;
+}
+*/
 /*Overall css*/
 *{
 	margin: 0;
@@ -486,40 +494,6 @@ html{
 	border-right: 0;
 }
 
-.contact .contact-form{
-	background: linear-gradient(to right, transparent, rgba(200, 200, 200, 0.1), transparent);
-	padding: 30px;
-}
-
-.contact .contact-form input,
-.contact .contact-form textarea{
-	color: #fff;
-	background: transparent;
-	padding: 10px 15px;
-	border-radius: 0;
-	width: 100%;
-	border: 1px solid rgba(0,0,0,0.28);
-	margin-bottom: 15px;
-	font-size: 12px;
-	transition: 0.3s all; 
-}
-
-.contact .contact-form input::placeholder,
-.contact .contact-form textarea::placeholder{
-	color: #fff;
-}
-
-.contact .contact-form input::focus,
-.contact .contact-form textarea::focus{
-	border: 1px solid #fff;
-	outline: none;
-	box-shadow: none;
-}
-
-.contact .contact-form textarea{
-	height: 120px;
-}
-
 /*Footer section css*/
 .footer{
 	background: #212121;
@@ -564,7 +538,15 @@ html{
 }
 }
 
+/*CSS form for devices with resolution under 768px*/
 @media only screen and (max-width: 768px){
+.deskContent{
+	display: none;
+}
+.phoneContent{
+	display: block;
+}
+
 /*Overall css*/
 *{
 	margin: 0;
@@ -994,7 +976,7 @@ html{
 }
 
 .contact .info-block{
-	border-right: 1px solid #fff;
+	border-bottom: 1px solid #fff;
 }
 
 .contact .part-info .info-block .icon{
@@ -1004,14 +986,16 @@ html{
 .contact .part-info .info-block .icon i{
 	display: inline-block;
 	color: #fff;
-	font-size: 38px;
+	font-size: 28px;
+	padding-top: 20px;
 }
 
 .contact .part-info .info-block h5{
 	color: #fff;
-	font-size: 16px;
+	font-size: 14px;
 	margin-bottom: 10px;
-}
+/*	padding-bottom: 10px;
+*/}
 
 .contact .part-info .info-block p{
 	color: #fff;
@@ -1019,41 +1003,7 @@ html{
 }
 
 .contact .part-info .col-md-4:last-child .info-block {
-	border-right: 0;
-}
-
-.contact .contact-form{
-	background: linear-gradient(to right, transparent, rgba(200, 200, 200, 0.1), transparent);
-	padding: 30px;
-}
-
-.contact .contact-form input,
-.contact .contact-form textarea{
-	color: #fff;
-	background: transparent;
-	padding: 10px 15px;
-	border-radius: 0;
-	width: 100%;
-	border: 1px solid rgba(0,0,0,0.28);
-	margin-bottom: 15px;
-	font-size: 12px;
-	transition: 0.3s all; 
-}
-
-.contact .contact-form input::placeholder,
-.contact .contact-form textarea::placeholder{
-	color: #fff;
-}
-
-.contact .contact-form input::focus,
-.contact .contact-form textarea::focus{
-	border: 1px solid #fff;
-	outline: none;
-	box-shadow: none;
-}
-
-.contact .contact-form textarea{
-	height: 120px;
+	border-bottom: 0;
 }
 
 /*Footer section css*/
