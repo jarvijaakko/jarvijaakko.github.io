@@ -674,7 +674,7 @@ html{
 
 /*Banner section css*/
 .banner{
-	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../images/background.jpg);
+	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../images/background_mobile.jpg);
 	background-attachment: fixed; 
 /*	width: 100%;
 */}
