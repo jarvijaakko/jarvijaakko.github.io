@@ -345,13 +345,7 @@ html{
 /*Skills section other content*/
 .skills{
 	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../images/background_02.jpg);
-/*	background-attachment: cover;
-*/	height:100%;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    overflow: hidden;
+	background-attachment: cover;	
 }
 
 .skills .section_title h3{
@@ -979,7 +973,7 @@ html{
 
 /*Contact section css*/
 .contact{
-	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../images/background.jpg);
+	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../images/background_mobile.jpg);
 	background-attachment: fixed; 
 	height: 100vh;
 }
