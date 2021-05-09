@@ -975,7 +975,8 @@ html{
 .contact{
 	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../images/background_mobile_02.jpg);
 	background-attachment: fixed; 
-	height: 100vh;
+	background-size: contain;
+	height: 100%;
 }
 
 .contact .section_title h3{
