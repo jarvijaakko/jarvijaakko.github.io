@@ -342,11 +342,7 @@ html{
 
 @media only screen and (max-width: 768px) {
 .about .part_text .info li{
-	width: 48%;
-	display: inline-block;
-	margin-bottom: 0px;
-	color: #000000;	
-	font-size: 10px
+	display: none;
 }
 }
 
