@@ -555,7 +555,7 @@ html{
 }
 
 .cover-bg{
-	background-size: cover;
+	background-size: contain;
 	background-position: center;
 	background-repeat: no-repeat;
 }
@@ -975,8 +975,8 @@ html{
 .contact{
 	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../images/background_mobile_02.jpg);
 /*	background-attachment: fixed; 
-*/	background-size: contain;
-}
+*/	/*background-size: contain;
+*/}
 
 .contact .section_title h3{
 	color: #fff;
