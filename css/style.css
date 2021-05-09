@@ -321,6 +321,7 @@ html{
 .back{
 	background-color: #f1f1f1;
 	transform: perspective(600px) rotateY(180deg);
+	opacity: 0.85;
 }
 
 .back_content{
@@ -344,8 +345,8 @@ html{
 /*Skills section other content*/
 .skills{
 	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../images/background_02.jpg);
-	background-attachment: fixed; 
-	height: 100vh;
+	background-attachment: fixed;
+	html{height:100%,width:100%};
 }
 
 .skills .section_title h3{
