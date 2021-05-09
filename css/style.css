@@ -555,7 +555,7 @@ html{
 }
 
 .cover-bg{
-	background-size: contain;
+	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
@@ -973,7 +973,7 @@ html{
 
 /*Contact section css*/
 .contact{
-	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../images/background_mobile.jpg);
+	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../images/background.jpg);
 /*	background-attachment: fixed; 
 */	/*background-size: contain;
 */}
