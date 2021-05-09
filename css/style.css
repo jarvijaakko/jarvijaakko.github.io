@@ -866,7 +866,7 @@ html{
 .projects{
 	background-image: linear-gradient(to right top, #f0ebe5, #e7e0d7, #dfd4ca, #d7c8bd, #cfbdb1);
 	transition: all 0.3s;
-	height: 100vh;
+	height: 300vh;
 }
 
 .projects .section_title h3{
