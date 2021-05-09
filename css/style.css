@@ -674,7 +674,7 @@ html{
 
 /*Banner section css*/
 .banner{
-	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../images/background_mobile.jpg);
+	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../images/background.jpg);
 	background-attachment: fixed; 
 	height: 100vh;
 /*	width: 100%;
@@ -798,7 +798,7 @@ html{
 .skills{
 	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../images/background_02.jpg);
 	background-attachment: fixed; 
-	height: 600%;
+/*	height: 600%;*/
 }
 
 .skills .section_title h3{
