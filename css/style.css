@@ -553,11 +553,23 @@ html{
 	box-sizing: border-box;
 }
 
-.cover-bg{
+/*.cover-bg{
 	background-size: auto 100%;
 	background-position: center;
 	background-repeat: no-repeat;
-}
+}*/
+
+.cover-bg{
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../images/background.jpg) no-repeat center center fixed; 
+    -webkit-background-size: 100%; 
+    -moz-background-size: 100%; 
+    -o-background-size: 100%; 
+    background-size: 100%; 
+    -webkit-background-size: cover; 
+    -moz-background-size: cover; 
+    -o-background-size: cover; 
+    background-size: cover; 
+    }
 
 .mt-20{
 	margin-top: 20px;
@@ -673,10 +685,10 @@ html{
 
 /*Banner section css*/
 .banner{
-	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../images/background.jpg);
-	background-attachment: scroll; 
+/*	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../images/background.jpg);
+*//*	background-attachment: scroll; 
 	height: 100vh;
-/*	width: 100%;
+*//*	width: 100%;
 */}
 
 .banner .caption h4{
@@ -971,10 +983,10 @@ html{
 }
 
 /*Contact section css*/
-.contact{
+.contact{/*
 	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../images/background.jpg);
 	background-attachment: scroll; 
-	height: 100vh;
+	height: 100vh;*/
 /*	width: 100%;
 */	/*background-size: contain;
 */}
