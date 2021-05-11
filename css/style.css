@@ -759,7 +759,7 @@ html{
 
 /*About section css*/
 .about{
-	height: 100vh;
+	height: auto;
 	background-image: linear-gradient(to right top, #f0ebe5, #e7e0d7, #dfd4ca, #d7c8bd, #cfbdb1);
 }
 
@@ -812,7 +812,7 @@ html{
 .skills{
 	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../images/background_02.jpg);
 	background-attachment: fixed; 
-/*	height: 600%;*/
+	height: auto;
 }
 
 .skills .section_title h3{
@@ -893,7 +893,7 @@ html{
 .projects{
 	background-image: linear-gradient(to right top, #f0ebe5, #e7e0d7, #dfd4ca, #d7c8bd, #cfbdb1);
 	transition: all 0.3s;
-	height: 300%;
+	height: auto;
 }
 
 .projects .section_title h3{
