@@ -561,6 +561,16 @@ html{
 	height: 100vh;
 }
 
+.cover-bg2{
+	background-size: auto 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../images/background_02.jpg);
+	height: 100vh;
+}
+
+
 /*.cover-bg{
     background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../images/background.jpg) no-repeat center center fixed; 
     -webkit-background-size: 100%; 
@@ -810,10 +820,11 @@ html{
 
 /*Skills section other content*/
 .skills{
-	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../images/background_02.jpg);
+	height: auto;
+/*	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../images/background_02.jpg);
 	background-attachment: fixed; 
 	height: inherit;
-}
+*/}
 
 .skills .section_title h3{
 	color: #fff;
