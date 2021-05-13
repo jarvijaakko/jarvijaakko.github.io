@@ -847,8 +847,8 @@ html{
 }
 
 .card{
-	width: 21.25rem;
-	height: 21.25rem;
+	width: 25rem;
+	height: 25rem;
 	cursor: pointer;
 	background-color: rgba(245, 245, 245, 0)
 /*	padding-bottom: 50px;
