@@ -705,7 +705,7 @@ html{
 	width: 48%;
 	background-color: #f15627;
 	border: 0.125rem solid #f15627;
-	padding: 0.313rem 0.313rem;
+	padding: 1rem 0.313rem;
 	box-shadow: inset 0 0 0 0 #fff;
 	letter-spacing: 0.063rem;
 	border-radius: 0;
@@ -780,7 +780,7 @@ html{
 	text-transform: capitalize;
 	line-height: 1.14;
 	letter-spacing: 0.088rem;
-	padding-bottom: 0rem;
+	padding-bottom: 2rem;
 }
 
 .section_title h3:after{
@@ -801,7 +801,7 @@ html{
 	border-bottom: 0.1rem solid #000000;
 	width: 100%;
 	font-size: 1rem;
-	padding-bottom: 4rem;	
+	padding-bottom: 2rem;	
 }
 
 /*.about .part_text p{
@@ -1019,7 +1019,7 @@ html{
 
 .contact .part-info{
 	background: linear-gradient(to right, transparent, rgba(200, 200, 200, 0.1), transparent);
-	padding: 4.875rem;
+	padding: 2.875rem;
 	margin-bottom: 3.125rem;
 }
 
