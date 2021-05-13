@@ -1052,7 +1052,7 @@ html{
 
 .contact .part-info .info-block h5{
 	color: #fff;
-	font-size: 0.875rem;
+	font-size: 1.5rem;
 	margin-bottom: 0.625rem;
 /*	padding-bottom: 10px;
 */}
@@ -1060,6 +1060,7 @@ html{
 .contact .part-info .info-block p{
 	color: #fff;
 	opacity: 0.9;
+	font-size: 1.25rem;
 }
 
 .contact .part-info .col-md-4:last-child .info-block {
@@ -1086,7 +1087,7 @@ html{
 	margin-right: 0.625rem;
 	background: #252525;
 	transition: 0.5s all;
--}
+}
 
 .footer .social_icon a i{
 	color: #fff;
