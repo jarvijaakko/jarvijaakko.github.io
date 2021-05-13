@@ -663,16 +663,6 @@ nav span {
 	display: block;
 }
 
-
-.navbar-dark .navbar-nav .nav-link{
-	color: #fff;
-	font-weight: 700;
-	text-transform: uppercase;
-	letter-spacing: 0.063rem;
-	font-size: 0.875rem;
-	transition: 0.5s all;
-}
-
 .navbar-dark .navbar-nav .nav-link{
 	color: #fff;
 	font-weight: 700;
